@@ -1,4 +1,4 @@
--- READ ME, THIS IS NOT BY ME, ITS MADE BY ANOTHER GUY, I  CUSTOMED THIS, ALL ENTITY CUSTOM IS KILLABLE.
+--e
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("Entity spawner V4", "Midnight")
 
