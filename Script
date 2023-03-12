@@ -809,7 +809,7 @@ local Creator = loadstring(game:HttpGet("https://raw.githubusercontent.com/Regul
 
 local entity = Creator.createEntity({
     CustomName = "Rush", -- Custom name of your entity
-    Model = 11683344107,
+    Model = 12760849615,
     Speed = 295, -- Percentage, 100 = default Rush speed
     DelayTime = 3, -- Time before starting cycles (seconds)
     HeightOffset = 0,
